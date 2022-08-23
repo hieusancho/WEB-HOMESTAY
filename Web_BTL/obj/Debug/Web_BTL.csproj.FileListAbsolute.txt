@@ -1,0 +1,236 @@
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\Web_BTL.dll.config
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\Web_BTL.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\Web_BTL.pdb
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\csc.exe
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\csc.exe.config
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\csc.rsp
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\csi.exe
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\csi.exe.config
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\csi.rsp
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.AppContext.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Collections.Immutable.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Console.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Globalization.Calendars.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.IO.Compression.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.IO.FileSystem.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Net.Http.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Net.Sockets.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Reflection.Metadata.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.ValueTuple.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Xml.XPath.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\vbc.exe
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\vbc.exe.config
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\vbc.rsp
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\VBCSCompiler.exe
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\roslyn\VBCSCompiler.exe.config
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\obj\Debug\Web_BTL.csproj.AssemblyReference.cache
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\obj\Debug\Web_BTL.csproj.CoreCompileInputs.cache
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\obj\Debug\Web_BTL.csproj.CopyComplete
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\obj\Debug\Web_BTL.dll
+D:\W HTML\zLapTrinhWeb\zBTL\ASP_BTL\BTL_Web\Web_BTL\Web_BTL\obj\Debug\Web_BTL.pdb
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\Web_BTL.dll.config
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\Web_BTL.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\Web_BTL.pdb
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\csc.exe
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\csc.exe.config
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\csc.rsp
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\csi.exe
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\csi.exe.config
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\csi.rsp
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.AppContext.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Collections.Immutable.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Console.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Globalization.Calendars.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.IO.Compression.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.IO.FileSystem.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Net.Http.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Net.Sockets.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Reflection.Metadata.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.ValueTuple.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Xml.XPath.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\vbc.exe
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\vbc.exe.config
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\vbc.rsp
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\VBCSCompiler.exe
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\roslyn\VBCSCompiler.exe.config
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\obj\Debug\Web_BTL.csproj.CoreCompileInputs.cache
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\obj\Debug\Web_BTL.csproj.CopyComplete
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\obj\Debug\Web_BTL.dll
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\obj\Debug\Web_BTL.pdb
+D:\Báo Cáo BTL WEB\Web_BTL-Chuan\Web_BTL\Web_BTL\obj\Debug\Web_BTL.csproj.AssemblyReference.cache
+D:\BTLWEB\Web_BTL\Web_BTL\bin\Web_BTL.dll.config
+D:\BTLWEB\Web_BTL\Web_BTL\bin\Web_BTL.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\Web_BTL.pdb
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\csc.exe
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\csc.exe.config
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\csc.rsp
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\csi.exe
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\csi.exe.config
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\csi.rsp
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.AppContext.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Collections.Immutable.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Console.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Globalization.Calendars.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.IO.Compression.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.IO.FileSystem.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Net.Http.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Net.Sockets.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Reflection.Metadata.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.ValueTuple.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Xml.XPath.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\vbc.exe
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\vbc.exe.config
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\vbc.rsp
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\VBCSCompiler.exe
+D:\BTLWEB\Web_BTL\Web_BTL\bin\roslyn\VBCSCompiler.exe.config
+D:\BTLWEB\Web_BTL\Web_BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BTLWEB\Web_BTL\Web_BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BTLWEB\Web_BTL\Web_BTL\obj\Debug\Web_BTL.csproj.AssemblyReference.cache
+D:\BTLWEB\Web_BTL\Web_BTL\obj\Debug\Web_BTL.csproj.CoreCompileInputs.cache
+D:\BTLWEB\Web_BTL\Web_BTL\obj\Debug\Web_BTL.csproj.CopyComplete
+D:\BTLWEB\Web_BTL\Web_BTL\obj\Debug\Web_BTL.dll
+D:\BTLWEB\Web_BTL\Web_BTL\obj\Debug\Web_BTL.pdb
+E:\Web_BTL\Web_BTL\bin\Web_BTL.dll.config
+E:\Web_BTL\Web_BTL\bin\Web_BTL.dll
+E:\Web_BTL\Web_BTL\bin\Web_BTL.pdb
+E:\Web_BTL\Web_BTL\bin\roslyn\csc.exe
+E:\Web_BTL\Web_BTL\bin\roslyn\csc.exe.config
+E:\Web_BTL\Web_BTL\bin\roslyn\csc.rsp
+E:\Web_BTL\Web_BTL\bin\roslyn\csi.exe
+E:\Web_BTL\Web_BTL\bin\roslyn\csi.exe.config
+E:\Web_BTL\Web_BTL\bin\roslyn\csi.rsp
+E:\Web_BTL\Web_BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Web_BTL\Web_BTL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Web_BTL\Web_BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Web_BTL\Web_BTL\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.AppContext.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Collections.Immutable.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Console.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Globalization.Calendars.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.IO.Compression.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.IO.FileSystem.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Net.Http.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Net.Sockets.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Reflection.Metadata.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.ValueTuple.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Xml.XPath.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Web_BTL\Web_BTL\bin\roslyn\vbc.exe
+E:\Web_BTL\Web_BTL\bin\roslyn\vbc.exe.config
+E:\Web_BTL\Web_BTL\bin\roslyn\vbc.rsp
+E:\Web_BTL\Web_BTL\bin\roslyn\VBCSCompiler.exe
+E:\Web_BTL\Web_BTL\bin\roslyn\VBCSCompiler.exe.config
+E:\Web_BTL\Web_BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Web_BTL\Web_BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Web_BTL\Web_BTL\obj\Debug\Web_BTL.csproj.AssemblyReference.cache
+E:\Web_BTL\Web_BTL\obj\Debug\Web_BTL.csproj.CoreCompileInputs.cache
+E:\Web_BTL\Web_BTL\obj\Debug\Web_BTL.csproj.CopyComplete
+E:\Web_BTL\Web_BTL\obj\Debug\Web_BTL.dll
+E:\Web_BTL\Web_BTL\obj\Debug\Web_BTL.pdb
